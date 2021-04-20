@@ -8,6 +8,13 @@ body {
     text-shadow: 2px 2px 0px black;
   }
 
+.contentArea {
+  margin-bottom: 8rem;
+  padding: 5px;  
+  background-color: beige;
+  opacity: 90%;
+}
+
 .footer_header {
   color: lightgray;
   padding-left: 50px;
