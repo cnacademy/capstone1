@@ -9,11 +9,17 @@ body {
     text-shadow: 2px 2px 0px black;
   }
 
+.card {
+  opacity: 90%;
+  background-color: white;
+}
+
 .contentArea {
+  border-radius: 10px;
   color: black;
   text-shadow: 0px 0px 0px black;
-  padding: 5px;  
-  background-color: beige;
+  padding: 20px;  
+  background-color: white;
   opacity: 90%;
 }
 
